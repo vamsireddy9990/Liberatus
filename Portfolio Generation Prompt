@@ -1,0 +1,79 @@
+Prompt:
+
+"Build a modern, responsive personal portfolio website based on the following resume. Extract all relevant details and organize them into well-structured sections. Use a clean and professional UI with a smooth scroll and navigation bar. Highlight achievements and skills clearly. Add appropriate icons, timelines, and design elements to make the portfolio visually engaging. Make sure it's mobile-friendly."
+
+Required Sections:
+
+Landing Page / Hero Section
+
+Name, Title (e.g., Web Developer, AI Enthusiast), Professional Tagline
+
+Profile Picture (use a placeholder if none is provided)
+
+Short Introduction or Bio
+
+CTA Buttons (Download Resume, Contact Me)
+
+About Me
+
+Detailed personal statement or summary
+
+Education background
+
+Hobbies or interests (optional)
+
+Skills
+
+Technical skills (Languages, Tools, Frameworks)
+
+Soft skills
+
+Can use badges or progress bars
+
+Projects
+
+Project Title, Description
+
+Technologies used
+
+Links (GitHub, Live Demo)
+
+Thumbnail image or project screenshot (optional)
+
+Experience
+
+Company/Organization name
+
+Role/Title
+
+Duration
+
+Description of work, achievements
+
+Certifications & Awards
+
+Name of the certification/award
+
+Issuing organization
+
+Date
+
+Blogs / Publications (optional)
+
+Title, platform, link, short description
+
+Contact Section
+
+Email, LinkedIn, GitHub, other socials
+
+Contact form (Name, Email, Message)
+
+Footer
+
+Copyright info
+
+Quick links
+
+Social media icons
+
+Input: [Paste or upload your resume here]

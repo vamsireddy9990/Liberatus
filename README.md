@@ -74,9 +74,7 @@ We use what helps us move fastest:
 
 ---
 
-## 💬 Motto
-
-> “We don’t just write code. We write our future.”
+”
 
 ---
 
